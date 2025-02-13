@@ -1,0 +1,2 @@
+# KiCad_RTM_v2_2_Adapterboardstellung_Fischer_202301
+500 EURO RTM KiCad Adapterboard
