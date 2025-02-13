@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "Raspberry")(type "KiCad")(uri "${KIPRJMOD}/libraries/Raspberry.pretty")(options "")(descr ""))
+  (lib (name "Adapterboard")(type "KiCad")(uri "${KIPRJMOD}/Adapterboard.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/libraries/Library.pretty")(options "")(descr ""))
+  (lib (name "Mikroe")(type "KiCad")(uri "${KIPRJMOD}/libraries/Mikroe.pretty")(options "")(descr "")(disabled))
+  (lib (name "STMlibrary")(type "KiCad")(uri "${KIPRJMOD}/libraries/STMlibrary.pretty")(options "")(descr ""))
+  (lib (name "Mylibrary")(type "KiCad")(uri "${KIPRJMOD}/libraries/Mylibrary.pretty")(options "")(descr ""))
+)

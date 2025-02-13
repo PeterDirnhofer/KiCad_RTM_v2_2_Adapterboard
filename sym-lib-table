@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "ESP32-DEVKITC-32D")(type "KiCad")(uri "C:/Users/peter/OneDrive/500_rtm_shared/KiCad6/own-symbols/ESP32-DEVKITC-32D.kicad_sym")(options "")(descr ""))
+  (lib (name "mikroe")(type "Legacy")(uri "C:/Users/peter/OneDrive/500_rtm_shared/KiCad6/own-symbols/mikroe.lib")(options "")(descr ""))
+  (lib (name "CP2102_USB")(type "KiCad")(uri "${KIPRJMOD}/libraries/CP2102_USB.kicad_sym")(options "")(descr ""))
+)
